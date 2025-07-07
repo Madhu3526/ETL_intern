@@ -1,0 +1,7 @@
+# Ignore Python virtual environments
+intern_env/
+__pycache__/
+*.ipynb_checkpoints
+*.csv
+*.log
+.env
